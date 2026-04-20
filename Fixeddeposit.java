@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
 public class FixedDeposit {
+    
     public static void main(String[] args) {
-
-        Scanner input = new Scanner(System.in);
+        
+    Scanner input = new Scanner(System.in);
         char check = 'y';
-
         while(check == 'y') {
 
             System.out.println("Enter your Principal amount, Time, and Rate");
